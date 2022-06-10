@@ -13,6 +13,7 @@
 		AEDA03EB28539CB8009F8458 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AEDA03E928539CB8009F8458 /* Main.storyboard */; };
 		AEDA03ED28539CBA009F8458 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AEDA03EC28539CBA009F8458 /* Assets.xcassets */; };
 		AEDA03F028539CBA009F8458 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AEDA03EE28539CBA009F8458 /* LaunchScreen.storyboard */; };
+		AEDA03F82853A3B5009F8458 /* Offer.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDA03F72853A3B5009F8458 /* Offer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AEDA03EC28539CBA009F8458 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AEDA03EF28539CBA009F8458 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AEDA03F128539CBA009F8458 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AEDA03F72853A3B5009F8458 /* Offer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				AEDA03EC28539CBA009F8458 /* Assets.xcassets */,
 				AEDA03EE28539CBA009F8458 /* LaunchScreen.storyboard */,
 				AEDA03F128539CBA009F8458 /* Info.plist */,
+				AEDA03F72853A3B5009F8458 /* Offer.swift */,
 			);
 			path = CollectionViewApp;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AEDA03F82853A3B5009F8458 /* Offer.swift in Sources */,
 				AEDA03E828539CB8009F8458 /* ViewController.swift in Sources */,
 				AEDA03E428539CB8009F8458 /* AppDelegate.swift in Sources */,
 				AEDA03E628539CB8009F8458 /* SceneDelegate.swift in Sources */,
