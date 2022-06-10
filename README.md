@@ -7,3 +7,9 @@ Certain things need to be kept in mind while considering a collectionView :
 3. Where are the data of the items stored ? Eg : An array
 4. How does the item look like ? The UI of the cell.
 5. By Default Scrolling in a collectionView is vertical, if you want horizontal scroll,then specially change it in the xcode property section of the collectionview from vertical -> horizontal.
+
+Attaching a dmeo of app : 
+
+https://user-images.githubusercontent.com/80701312/173116388-73398679-1091-4a28-97e8-866dd8304860.mp4
+
+
